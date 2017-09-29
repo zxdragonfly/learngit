@@ -1,0 +1,76 @@
+Git
+	-查看用户名和邮箱名
+		--$ git config user.name
+		--$ git config user.email
+	-修改用户名和邮箱地址
+		--$ git config --global user.name "username"
+		--$ git config --global user.email "email"
+	-把目录变成Git可以管理的仓库
+		--$ git init
+	-把文件添加到本地git仓库
+		--新建文件*.txt,编辑
+		--$ git add  文件名1 文件名2 ...
+	-把文件提交到仓库
+		--$ git commit -m "wrote a readme file!"
+	-查看状态
+		--$ git status
+	-查看different
+		--$ git diff [文件名]
+	-查看历史记录
+		--$ git log  [--pretty=oneline]
+	-HEAD表示当前版本,HEAD^表示上一个版本,HEAD^^表示上上个版本...HEAD~100表示上100个版本
+	-回退到上一个版本
+		--$ git reset --hard HEAD^
+	-到指定版本
+		--$ git	reset --hard [版本号]
+	-查看历史命令
+		--$ git reflog
+	-工作区和暂存区
+		--.git表示Git的版本库(Repository)
+			---stage是暂存区
+			---master是Git为我们自动创建的第一个分支
+			---HEAD表示指向master的指针
+			---add表示从工作区到暂存区
+			---commit表示从暂存区到当前分支
+			---工作区就是我们的目录文件,版本库包含暂存区和分支
+	-查看工作区和版本库里面最新版本的区别
+		--$ git diff HEAD -- [文件名]
+	-放弃工作区的修改
+		--$ git checkout -- [文件名](用版本库里的文件替换工作区的文件)
+	-把暂存区的修改撤销掉
+		--$ git reset HEAD [文件名](git reset不仅可以回退,还可以将暂存区的修改退回到工作区)
+	-删除了工作区文件(直接删除)
+		--$ git rm [文件名]并且commit,此时版本库里文件被删除
+		--$ git checkout -- [文件名]恢复被删除的文件
+	-生成密匙
+		--$ ssh-keygen -t rsa -C “zx_eclipse@126.com”
+	-关联本地与github仓库
+		--$ git remote add origin git@github.com:zxdragonfly/learngit.git
+	-把本地库的所有内容推送到远程库上
+		--$ git push -u origin master(第一次)
+		--$ git push origin master
+	-删除origin
+		--$ git remote rm origin
+	-把远程仓库clone到本地
+		--$ git clone git@github.com:zxdragonfly/gitskills.git
+	-创建一个新分支
+		--$ git checkout -b dev(加上-b表示创建并切换,相当于下边两条命令)
+			---$ git branch dev
+			---$ git checkout dev
+	-查看所有分支
+		--$ git branch
+	-把dev分支的工作成果合并到当前分支
+		--$ git merge dev
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
