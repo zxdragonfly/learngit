@@ -1,0 +1,110 @@
+dimension
+	-[di·men·sion || dɪ'menʃn]
+	-n.尺寸,容积,次元
+specify  
+	-[spec·i·fy || 'spesɪfaɪ]
+	-v.具体指定;明确说明;详细指明;把...列入说明书
+validate  
+	-['val·i·date || 'vælɪdeɪt]
+	-v.使有效,确认,使生效
+fragment  
+	-[frag·ment || 'frægmənt]
+	-n.碎片,断片,破片
+	-v.使成碎片;成碎片
+terminal  
+	-[ter·mi·nal || 'tɜrmɪnl /'tɜːm-]
+	-n.末端;极限;终点;总站,终站
+	-adj.末端的;极限的;终点的;每期的,定期的
+algorithm  
+	-[al·go·rithm || 'ælgərɪðəm]
+	-n.运算法则,(数学用语)算题的每步过程(通常包括重复步骤);软件工具里用的解题步骤过程(计算机用语)
+usage
+	-[us·age || 'juːsɪdʒ]
+	-n.用法,习惯,使用
+identity  
+	-[i·den·ti·ty || aɪ'dentətɪ]
+	-n.同一性;一致;身份
+index  
+	-[in·dex· || 'ɪndeks]
+	-n.索引,指数,指针
+	-v.编入索引中;指出
+	-plural--->>indices
+constraint
+	-[con'straint || -nt]
+	-n.约束;强迫;限制;强制
+animate
+	-[an·i·mate || 'ænɪmeɪt]
+	-adj.有生命的;活泼的,有活力的;活的;有生气的
+	-v.赋予生命,使有生命;激励,鼓舞;使活泼,使有活力,使有生气;驱动,推动
+opacity
+	-[o·pac·i·ty || əʊ'pæsətɪ]
+	-n.不透明;暧昧;不传导;难懂
+fade 
+	-[feɪd]
+	-v.褪色,凋谢,消失;使褪色
+sibling  
+	-[sib·ling || 'sɪblɪŋ]
+	-n.兄弟姐妹;民族成员;同胞
+GUI 
+	-(Graphical User Interface)  
+	-gui,图像使用者界面,用图像手段处理工作的界面(计算机用语)
+scroll  
+	-[skrəʊl]
+	-n.卷轴,名册,卷形物
+	-v.使成卷形;用涡卷饰装饰;卷起
+visual  
+	-[vis·u·al || 'vɪʒʊəl]
+	-adj.看的,形象的,视觉的
+studio  
+	-[stu·di·o || 'stuːdɪəʊ /-tju-]
+	-n.工作室,画室;摄影室;雕塑室;照相馆
+tribe  
+	-[traɪb]
+	-n.部落,部族
+remark  
+	-[re·mark || rɪ'mɑrk / -'mɑːk]
+	-n.备注,注意,评论
+	-v.评论,谈及,注意;谈论,议论;评论
+authentication  
+	-[au·then·ti·ca·tion || ɔː‚θentɪ'keɪʃn]
+	-n.确证;证实;证明;鉴定
+authorization  
+	-[au·thor·i·za·tion || ‚ɔːθəraɪ'zeɪʃn]
+	-n.授权;认可;委任;批准
+SSO
+	-Single Sign On,单点登录
+CAS
+	-Central Authentication Service,实现SSO的框架
+realm  
+	-[relm]
+	-n.王国;界,领域;国土,领土;范围
+druid	
+	-英['dru:ɪd]
+	-美['dru:ɪd]
+	-[词典]棉帆布;
+qualify  
+	-[qual·i·fy || 'kwɑlɪfaɪ /'kwɒ-]
+	-v.使具有资格,使合格;修饰,限定;限制;把...称作,描述,形容;取得资格;具备合格条件
+merge  
+	-[mɜrdʒ /mɜːdʒ]
+	-v.使合并;使同化;使融合;合并;同化;融合
+stash  
+	-[stæʃ]
+	-v.藏起来,隐藏起来
+fetch  
+	-[fetʃ]
+	-v.拿来;去请...来,接...去;去拿...给;售得,卖得;取物;绕道而行;取回猎物
+
+
+
+
+
+
+
+
+
+
+
+
+
+
