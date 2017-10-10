@@ -106,10 +106,13 @@ bash
 	-shell的一种,linux最常用的shell脚本语言,一般linux中默认shell就是bash
 camel  
 	-[cam·el || 'kæml]
-	-n.  骆驼; 浮筒
+	-n.骆驼;浮筒
 gap  
 	-[gæp]
-	-n.  缝隙, 间断, 缺口
+	-n.缝隙,间断,缺口
+ellipsis  
+	-[el'lip·sis || -sɪs]
+	-n.省略;省略符号
 
 
 
