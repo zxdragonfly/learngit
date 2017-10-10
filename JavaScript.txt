@@ -1,0 +1,52 @@
+JavaScript
+	-全局变量和局部变量
+		-全局变量
+		-局部变量(函数级)
+		-作用域链(scope chain)
+			--函数也是对象,拥有通过代码访问的属性和仅由JavaScript引擎访问的内部属性(scope)
+			--scope中保存了该函数定义时作用域中所有对象的集合,决定了哪些数据可以被该函数访问
+			--执行函数时,会创建一个运行期上下文对象(execution context),定义了函数执行时的环境,有自己的作用域链(来自于当前执行的函数),共同组成一个新对象,活动对象(activation object)
+		-尽量少用全局变量,影响效率
+	-$.extend(),$.fun,$.fn.extend()
+		-jQuery为开发插件提供了两个方法jQuery.extend()和jQuery.fn.extend()
+		-把jQuery想象成一个类,$("#btn1")会生成jQuery类的一个实例
+		-jQuery.extend(object)为jQuery类添加类方法,也就是静态方法
+		-Object jQuery.extend(target,object1,[objectN])用一个或多个其他对象来扩展一个对象，返回被扩展的对象
+		-jQuery.fn.extend(object)对jQuery.prototype进得扩展，就是为jQuery类添加“成员函数”。jQuery类的实例可以使用这个“成员函数”。
+	-jQuery Validate验证框架
+	-移除所有 <p> 元素上的 click 事件：
+		$("button").click(function(){
+		$("p").off("click");
+		});
+	-<thead></thead>表头
+	-<tbody></tbody>
+	-<tfoot></tfoot>
+	-<th></th>相较于<td>前者会加粗处理
+	-js没有类的概念,但是有原型(protytype)
+		--xiaoming.__proto__=Student;
+			---不要这么用,可以使用Object.create(原型对象)
+		
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
